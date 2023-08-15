@@ -2,36 +2,8 @@
 
 # Alan Rodriguez
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+## Info personal
+Hola, mi nombre es Alan y estoy cursando la Tecnicatura en Informática. Actualmente me encuentro en mi cuarto cuatrimestre en esta universidad, antes cursaba en la Universidad de la Matanza la carrera de Ingeniería en Informática hasta el año 2021 que, luego de la pandemia, se me complicó el tema de viajar hasta La Matanza y me cambié a la Unahur ya que me enteré que estaba la Licenciatura en Informática y bueno es bastante parecido. Me decidí a estudiar informática en el último año del secundario cuando hicimos proyectos con robótica y me gustó muchisimo la parte de programación de los robots.
 
-```wollok
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
-
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1Ik6coqFm2lr2m6EFBGo3Ul4Bi4RPhrrtMQLbK3WcbIQ/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-* [Guía Rápida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
-
-### Presentacion Personal
-
-Me llamo ...
-
-Me gusta ...
-
-Me dedico a / Trabajo de ...
-
-Les dejo una imagen mía 
-
-![subir archivo de imagen](imagen.jpg)
+## Mis gustos
+Mis gustos musicales son bastante variados, pero mis artistas favoritos son Eminem (se puede ver por la foto de perfil jaja), Gorillaz y Queen. En general me gusta mucho el rock nacional también. Con respecto a mis gustos sobre pelis y series me gustan mucho de ciencia ficción y criminales. 
